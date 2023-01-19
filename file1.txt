@@ -1,0 +1,4 @@
+cat ""[DHello"[D"[D World"[
+cat < file1.txt
+pwd
+
